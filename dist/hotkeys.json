@@ -1,0 +1,14 @@
+{
+    "apps": {
+        "Riot Client.exe": {
+            "volume": 100
+        },
+        "VALORANT-Win64-Shipping.exe": {
+            "volume": 100
+        }
+    },
+    "settings": {
+        "remember_volumes": true,
+        "auto_start": false
+    }
+}

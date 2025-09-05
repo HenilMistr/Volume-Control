@@ -1,0 +1,20 @@
+{
+    "apps": {
+        "chrome.exe": {
+            "volume": 0,
+            "muted": true
+        },
+        "Riot Client.exe": {
+            "volume": 100
+        },
+        "VALORANT-Win64-Shipping.exe": {
+            "vol_up": "ctrl",
+            "vol_down": "ctrl+shift+!+X",
+            "mute": "ctrl+shift+!+X"
+        }
+    },
+    "settings": {
+        "remember_volumes": true,
+        "auto_start": false
+    }
+}
